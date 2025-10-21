@@ -1,4 +1,4 @@
-[200~# Arduino Learning Journey
+# Arduino Learning Journey
 
 My collection of Arduino projects and electronics learning.
 
