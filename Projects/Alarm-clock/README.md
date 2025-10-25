@@ -1,0 +1,1 @@
+Project from book "Arduino - Projects For Dummies", chapter 7. I am missing RTC module. Explore alternatives. Consider stopper-alarm.
